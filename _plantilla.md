@@ -4,7 +4,7 @@
 - **Proyecto:** <repo donde aplica>
 - **Cómo se obtuvo:** <quién la pasó / de dónde salió, con fecha>
 - **Veredicto:** *"<una línea, citada>"*
-- **Escrito por:** <agente>
+- **Escrito por:** muse (revisor) — o el dueño que la transcribió, si la pasó alguien
 
 ## Revisión (citada tal cual)
 
